@@ -7,3 +7,4 @@ The implementation is primarily for the first edition of the book (see [here](ht
 * Install [Mono](http://www.mono-project.com/download/) and [F#](http://fsharp.org/use/linux/)
 * Run `mono .paket/paket.bootstrapper.exe`
 * Run `mono .paket/paket.exe install`
+* (Optional) Install [Visual Studio Code](https://code.visualstudio.com/) for development
